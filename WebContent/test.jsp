@@ -9,7 +9,7 @@
 <body>
 <%
 
- String name = "이한나";
+ String name = "이한ㅇㅇ나";
 
 %>
 </body>

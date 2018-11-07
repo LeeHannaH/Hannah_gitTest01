@@ -22,7 +22,7 @@ public class TestServlet extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);
-		System.out.println(11);
+		System.out.println(111);
 		
 		
 	}
